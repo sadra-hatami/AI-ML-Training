@@ -20,6 +20,7 @@ A beginner-friendly collection of hands-on lessons covering **AI and machine lea
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Education](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Source](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean%20(SDO)-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
 [![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://github.com/sadra-hatami)
 
