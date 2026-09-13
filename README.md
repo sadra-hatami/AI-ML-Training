@@ -3,9 +3,9 @@
 # Introduction to AI and Machine Learning
 # 🤖📘✨
 
-### Interactive Jupyter Notebooks for Learning AI, ML, Deep Learning, and LLMs
+### Interactive Jupyter Notebooks for Learning AI, machine learning, Deep Learning, and LLMs
 
-A beginner-friendly collection of hands-on lessons covering **AI and machine learning basics**, **supervised learning**, **unsupervised learning**, **neural networks**, **deep learning**, and **large language models** — written as executable Jupyter notebooks with examples from healthcare and biomedical data.
+A beginner-friendly collection of hands-on lessons covering **AI and machine learning**, **supervised learning**, **unsupervised learning**, **neural networks**, **deep learning**, and **large language models** — written as executable Jupyter notebooks with examples from healthcare and biomedical data.
 
 <br>
 
