@@ -63,7 +63,7 @@ Many examples use biomedical and healthcare data — including breast cancer pre
 
 Each notebook includes short explanations, runnable examples, and real workflows so you can learn by doing, not only by reading.
 
-> **Tagline:** *A practical AI and machine learning repository covering supervised learning, unsupervised learning, neural networks, deep learning, and LLMs through interactive Jupyter Notebooks from Stanford Data Ocean (SDO).*
+> **Tagline:** *A practical AI and machine learning repository covering supervised learning, unsupervised learning, neural networks, deep learning, and LLMs through interactive Jupyter Notebooks.*
 
 ---
 
