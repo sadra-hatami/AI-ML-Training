@@ -1,6 +1,6 @@
 <div align="center">
 
-# Introduction to AI and Machine Learning
+# AI and Machine Learning Training
 # 🤖📘✨
 
 ### Interactive Jupyter Notebooks for Learning AI, Machine Learning, Deep Learning, and LLMs
