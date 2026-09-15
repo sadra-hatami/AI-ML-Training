@@ -86,6 +86,7 @@ This GitHub repository is maintained by **Sadra Hatami** as a convenient place t
 This course follows the same SDO path as:
 
 - [Python Programming Training](https://github.com/sadra-hatami/Python-Programming-Training)
+- [Pandas Library Training](https://github.com/sadra-hatami/Pandas-Library-Training)
 - [R Programming Training](https://github.com/sadra-hatami/R-Programming-Training)
 - [Bioinformatics Training](https://github.com/sadra-hatami/Bioinformatics-Training)
 
