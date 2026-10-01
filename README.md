@@ -15,17 +15,23 @@ A beginner-friendly collection of hands-on lessons covering **AI and machine lea
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Education](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Source](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean%20(SDO)-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
-[![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://github.com/sadra-hatami)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers)
+[![PyOD](https://img.shields.io/badge/PyOD-Outlier%20Detection-4B8BBE?style=for-the-badge)](https://pyod.readthedocs.io/)
+[![SDO](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
+[![Stanford](https://img.shields.io/badge/Stanford-University-8C1515?style=for-the-badge)](https://www.stanford.edu/)
+[![AI](https://img.shields.io/badge/Topic-AI%20%26%20ML-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Lessons](https://img.shields.io/badge/Lessons-6%20Notebooks-4A90A4?style=for-the-badge)](https://github.com/sadra-hatami/AI-ML-Training)
+[![License](https://img.shields.io/badge/License-Educational-green.svg?style=for-the-badge)](https://dataocean.stanford.edu/)
+[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 
 <br>
 
